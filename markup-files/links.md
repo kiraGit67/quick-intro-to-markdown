@@ -6,3 +6,6 @@
 ## Topic 1
 
 ## Topic 2
+
+
+Click [this link](https://google.com) to go to Google.
