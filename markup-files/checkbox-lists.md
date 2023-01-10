@@ -1,7 +1,7 @@
 # Groceries
 
 - [ ] Sweets
-- [ ] Wine
-- [ ] Beer
+- [x] Wine
+- [x] Beer
 - [ ] Fruits
 - [ ] Vegetables
