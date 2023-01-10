@@ -5,7 +5,15 @@
 
 ## Topic 1
 
+- Category 1.1
+- Category 1.2
+- Category 1.3
+
 ## Topic 2
+
+- Category 2.1
+- Category 2.2
+- Category 2.2
 
 
 Click [this link](https://google.com) to go to Google.
