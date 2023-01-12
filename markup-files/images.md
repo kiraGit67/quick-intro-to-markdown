@@ -12,3 +12,5 @@ JavaScript:
 ![alt text][logo js]
 
 [logo js]: https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png "JS"
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="100" title="CSS3" /><img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="200" title="JS" />
