@@ -6,3 +6,4 @@ My exercises for the category "Web Dev Foundation / Frontend Developer Setup / Q
 3. [checkbox-lists.md](markup-files/checkbox-lists.md)
 4. [links.md](markup-files/links.md)
 5. [tables.md](markup-files/tables.md)
+6. [images.md](markup-files/images.md)
